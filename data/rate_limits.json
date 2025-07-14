@@ -1,0 +1,36 @@
+{
+  "type": "current",
+  "lastUpdated": "2025-07-14T11:01:44.392Z",
+  "alphavantage": {
+    "requests": 25,
+    "lastReset": "2025-07-14T11:00:49.531Z"
+  },
+  "twelvedata": {
+    "requests": 0,
+    "lastReset": "2025-07-14T11:00:49.532Z"
+  },
+  "finnhub": {
+    "requests": 0,
+    "lastReset": "2025-07-14T11:00:49.532Z"
+  },
+  "iexcloud": {
+    "requests": 0,
+    "lastReset": "2025-07-14T11:00:49.532Z"
+  },
+  "polygon": {
+    "requests": 0,
+    "lastReset": "2025-07-14T11:00:49.532Z"
+  },
+  "quandl": {
+    "requests": 0,
+    "lastReset": "2025-07-14T11:00:49.532Z"
+  },
+  "worldtradingdata": {
+    "requests": 0,
+    "lastReset": "2025-07-14T11:00:49.532Z"
+  },
+  "marketstack": {
+    "requests": 0,
+    "lastReset": "2025-07-14T11:00:49.532Z"
+  }
+}
